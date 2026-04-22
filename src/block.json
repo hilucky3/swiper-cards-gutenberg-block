@@ -1,0 +1,12 @@
+// block.json
+{
+    "apiVersion": 2,
+    "name": "plugin/swiper-cards",
+    "title": "Swiper Cards",
+    "category": "widgets",
+    "icon": "smiley",
+    "supports": {
+        "html": false
+    },
+    "editorScript": "file:./index.js"
+}
